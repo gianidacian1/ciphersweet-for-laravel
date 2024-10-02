@@ -5073,7 +5073,7 @@
             },
             "require": {
                 "fakerphp/faker": "^1.9.2",
-                "laravel/framework": "^9.12",
+                "laravel/framework": "^10.0",
                 "mockery/mockery": "^1.4.4",
                 "orchestra/testbench-core": "^7.5",
                 "php": "^8.0",
